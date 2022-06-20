@@ -8,48 +8,32 @@ function Home() {
     return (
         <>
             <Section content={<Hello text="My Contacts" />}></Section>
+            <a href="https://github.com/gask5">
             <Section
                 content={
                     <Paragraph
                         img={Github}
                         header3=""
                         text={
-                            <strong>
-                                <a
-                                    style={{
-                                        textDecoration: "none",
-                                        color: "white",
-                                    }}
-                                    href="https://github.com/gask5"
-                                >
-                                    GitHub
-                                </a>
-                            </strong>
+                                    "GitHub"
                         }
                     />
                 }
             />
+            </a>
+            <a href="https://www.instagram.com/gask.5/">
             <Section
                 content={
                     <Paragraph
                         img={Instagram}
                         header3=""
-                        text={
-                            <strong>
-                                <a
-                                    style={{
-                                        textDecoration: "none",
-                                        color: "white",
-                                    }}
-                                    href="https://www.instagram.com/gask.5/"
-                                >
-                                    Instagram
-                                </a>
-                            </strong>
+                        text={                                
+                                "Instagram"
                         }
                     />
                 }
             />
+            </a>
         </>
     );
 }
