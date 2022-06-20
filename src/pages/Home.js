@@ -42,6 +42,7 @@ function Home() {
                     />
                 }
             />
+            <Section content={<div>Made in React.</div>}/>
         </>
     );
 }
