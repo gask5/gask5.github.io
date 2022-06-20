@@ -31,7 +31,7 @@ function Home() {
                                 <br /> Currently I am Computer Science student
                                 at University of Catania. <br />
                                 <br/>
-                                <br/> My main interests are Tech Music and Movies.
+                                <br/> My main interests are Tech, Music and Movies.
                                 <br/>
                                 <br/>
                                 <br />Minimalism as lifestyle.
