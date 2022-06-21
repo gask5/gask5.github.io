@@ -1,4 +1,4 @@
-import { Routes, Route, Link, useLocation } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Works from "./pages/Works";
