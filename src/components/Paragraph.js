@@ -15,7 +15,7 @@ const paragraphStyle = {
     alignItems: "center",
     justifyContent: "center",
     flexWrap: "wrap",
-    marginBottom: "5vw",
+    marginBottom: "1rem",
     borderRadius: "1em",
 
     color: "rgba(255,255,255,1)",
